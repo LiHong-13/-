@@ -1,0 +1,14 @@
+post_id	post_text	user_id	image_id(s)	username	timestamp	label
+324597532548276224	Don't need feds to solve the #bostonbombing when we have #4chan!! http://t.co/eXQTPZqqbG	886672620	boston_fake_03,boston_fake_35	SantaCruzShred	Wed Apr 17 18:57:37 +0000 2013	fake
+325145334739267584	PIC: Comparison of #Boston suspect Sunil Tripathi's FBI-released images/video and his MISSING poster http://t.co/EhV3ODxrJf You decide.	21992286	boston_fake_23	Oscar_Wang	Fri Apr 19 07:14:23 +0000 2013	fake
+325152091423248385	I'm not completely convinced that it's this Sunil Tripathi fellow—http://t.co/ZjWqOsRfjB	16428755	boston_fake_34	jamwil	Fri Apr 19 07:41:14 +0000 2013	fake
+324554646976868352	Brutal lo que se puede conseguir en colaboración. #4Chan analizando fotos de la maratón de #Boston atando cabos... http://t.co/4eq43HFicK	303138574	boston_fake_03,boston_fake_35	rubenson80	Wed Apr 17 16:07:12 +0000 2013	fake
+324315545572896768	4chan and the bombing. just throwing it out there: http://t.co/dIySO7lXQm http://t.co/NxBi4tW8bQ	180460772	boston_fake_15	Slimlenny	Wed Apr 17 00:17:06 +0000 2013	fake
+324581777614180352	4chan thinks they found pictures of the bomber  -  http://t.co/0y3w24l2q8	46224814	boston_fake_08	iamyadvinder	Wed Apr 17 17:55:00 +0000 2013	fake
+324665423956176896	Ola ke ase, investigando las bombas de Boston o ke ase? #4chan http://t.co/7A4IAbVmM0	90735851	boston_fake_35	rcr866	Wed Apr 17 23:27:23 +0000 2013	fake
+325464125868216321	4chan ThinkTank - Imgur http://t.co/hQt2fhxE48	142785938	boston_fake_03,boston_fake_35	GlebGgs	Sat Apr 20 04:21:09 +0000 2013	fake
+325099014355820544	@DLoesch have you seen this? Bomber #2  looks like missing student Sunil Tripathi.  http://t.co/1phQpB0aMT  http://t.co/X9pqMtnoW5	21769179	boston_fake_13	larrygloverlive	Fri Apr 19 04:10:19 +0000 2013	fake
+325705653026975744	da 4chan think tank BOSTON  http://t.co/0ZbKMA5z0D  #photos #suspects #bombing #marathon	51410043	boston_fake_03,boston_fake_35	IsraelTucker	Sat Apr 20 20:20:53 +0000 2013	fake
+324637464927039488	@Anonymoussops @bernardosampa @urbanohumano definitely a good work anonymous. #4chan 4ver &gt;&gt; http://t.co/VSAz2qzbun	224438064	boston_fake_03,boston_fake_35	MrDDS1984	Wed Apr 17 21:36:17 +0000 2013	fake
+325101127043534850	Poo, o 4CHAN nas análises dos atentados hein. De loco!\n\nhttp://t.co/au0JRLE0qA http://t.co/Nm92oqIkmy	97034316	boston_fake_03,boston_fake_35	AriellMarques	Fri Apr 19 04:18:43 +0000 2013	fake
+324498279700234240	@DandCShow Did you guys see these pics?  http://t.co/AwkA3cC4dg  #reddit #4chan #bostonstrong	21324077	boston_fake_03,boston_fake_35	SignoreDago	Wed Apr 17 12:23:13 +0000 2013	fake
